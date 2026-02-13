@@ -1,0 +1,14 @@
+C:\Walkup Counter\bin\Debug\net9.0-windows\WalkUpCounter.exe
+C:\Walkup Counter\bin\Debug\net9.0-windows\WalkUpCounter.deps.json
+C:\Walkup Counter\bin\Debug\net9.0-windows\WalkUpCounter.runtimeconfig.json
+C:\Walkup Counter\bin\Debug\net9.0-windows\WalkUpCounter.dll
+C:\Walkup Counter\bin\Debug\net9.0-windows\WalkUpCounter.pdb
+C:\Walkup Counter\obj\Debug\net9.0-windows\WalkUpCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Walkup Counter\obj\Debug\net9.0-windows\WalkUpCounter.AssemblyInfoInputs.cache
+C:\Walkup Counter\obj\Debug\net9.0-windows\WalkUpCounter.AssemblyInfo.cs
+C:\Walkup Counter\obj\Debug\net9.0-windows\WalkUpCounter.csproj.CoreCompileInputs.cache
+C:\Walkup Counter\obj\Debug\net9.0-windows\WalkUpCounter.dll
+C:\Walkup Counter\obj\Debug\net9.0-windows\refint\WalkUpCounter.dll
+C:\Walkup Counter\obj\Debug\net9.0-windows\WalkUpCounter.pdb
+C:\Walkup Counter\obj\Debug\net9.0-windows\WalkUpCounter.genruntimeconfig.cache
+C:\Walkup Counter\obj\Debug\net9.0-windows\ref\WalkUpCounter.dll

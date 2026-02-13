@@ -1,0 +1,4 @@
+C:\Walkup Counter\obj\Debug\net6.0-windows\WalkUpCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Walkup Counter\obj\Debug\net6.0-windows\WalkUpCounter.AssemblyInfoInputs.cache
+C:\Walkup Counter\obj\Debug\net6.0-windows\WalkUpCounter.AssemblyInfo.cs
+C:\Walkup Counter\obj\Debug\net6.0-windows\WalkUpCounter.csproj.CoreCompileInputs.cache
